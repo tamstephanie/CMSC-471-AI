@@ -1,0 +1,4 @@
+((pick-up brush)
+ (load-brush brush paint-can red)
+ (brush-paint a brush red)
+ (stack brush paint-can))
